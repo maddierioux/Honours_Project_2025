@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code used for an Honours thesis investigating how **distributional reinforcement learning**, combined with **prospective value coding**, can give rise to heterogeneous temporal response patterns resembling those observed in serotonergic neurons.
+This repository contains the code used for my Honours thesis investigating how **distributional reinforcement learning**, combined with **prospective value coding**, can give rise to heterogeneous temporal response patterns resembling those observed in serotonergic neurons.
 
 The project builds on the prospective coding framework introduced by **Harkin et al. (2025)**, which proposes that serotonin encodes a transformed representation of value incorporating both expected future reward and its temporal derivative. While the original framework treats value as a single scalar signal, this work extends it by introducing **distributional temporal-difference (TD) learning** along two complementary dimensions:
 1. **Heterogeneous discounting timescales**, distributing value across temporal horizons.
